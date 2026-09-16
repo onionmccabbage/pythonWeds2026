@@ -3,9 +3,9 @@
 September 2026 - Toby Dussek
 
 * 10:00 start
-* 11:30 morning break (20 mins)
+* 11:30 morning break
 * 1:00 lunch (1 hr)
-* 3:30 afternoon break (20 mins)
+* 3:30 afternoon break
 * 5:00 done
 
 #### Course website: 
